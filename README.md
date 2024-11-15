@@ -1,1 +1,1 @@
-Netzplan in Java
+Netzplan/java/kommandozeile
